@@ -1,6 +1,6 @@
 # Quick_credit
-Description
-Countries is a RESTful API for getting loans.
+ Description
+ Quick_credit is a RESTful API for getting loans.
 
 Table of Contents
 Technologies
